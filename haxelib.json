@@ -1,0 +1,11 @@
+{
+	"name": "devtodev",
+	"url": "https://github.com/VolkovRA/HaxeDevtodev/blob/master/README.md",
+	"license": "MIT",
+	"tags": ["devtodev", "sdk", "api", "extern", "web", "js"],
+	"description": "The haxe externs for DEVTODEV game analytics service",
+	"version": "1.0.0",
+	"releasenote": "Release",
+	"contributors": ["VolkovRA"],
+	"classPath": "lib"
+}
